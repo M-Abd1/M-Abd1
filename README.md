@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M-Abd1
-- 🌱 I’m an IT Major from a Prestigious Institute (PU)
+- 🌱 I’m an IT Major from a Prestigious Institute (PUCIT)
 - 💞️ I’m looking to collaborate on various IT Projects in the future...Currently working on a Pothole-Detection System using Computer Vision as my FYP.
 
 
