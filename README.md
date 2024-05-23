@@ -1,6 +1,6 @@
 - 👋 Hi, I’m M.Abdullah
 - 🌱 I’m an IT Major from a Prestigious Institute (PUCIT) Pursuing Bachelors.
-- Skilled in HTML, CSS, JavaScript, and Python.
+- Skilled in C++ and Python.
 - 💞️ I’m looking to collaborate on various IT Projects in the future...Currently working on a Pothole-Detection System using Computer Vision as my FYP.
 
 -  Lahore, Pakistan
